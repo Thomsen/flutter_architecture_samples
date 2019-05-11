@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:fish_redux/fish_redux.dart';
+import 'package:fish_redux_sample/fish_redux.dart';
 
 void main() {
   test('adds one to input values', () {
